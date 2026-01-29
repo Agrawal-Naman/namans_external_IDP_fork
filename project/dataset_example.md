@@ -2,6 +2,7 @@
 
 :::{note}
 Here is a short example. Your dataset documentation is likely to be longer!
+:::
 
 ## Datasets Summary:
 
