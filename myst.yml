@@ -81,6 +81,7 @@ project:
           - file: project/dataset_example.md
           - file: project/discovery_challenges.md
           - file: project/scraping.md
+        - file: project/project_examples.md
     - title: Extras
       children:
       - file: lectures/model-evaluation.ipynb
