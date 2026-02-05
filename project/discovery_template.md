@@ -71,6 +71,14 @@ You should:
 
 See the [Dataset Example](/project/dataset-example) for more details.
 
+### Dataset to Research
+
+Create a table for your research questions and dataset column references from the Datasets below that will be used to address this research question, don't combine/join the data for this information, just list the relevant dataset elements. You need to show that you've thought through matching up your research questions with relevant dataset elements to address each question. See below for an example (you should have multiple dataset/column references though):
+
+| Research Question | Dataset & Columns | Notes |
+| --- | --- | --- |
+| 1 | Graduation_2018:GraduationRate | Graduation rates will be used to show how graduation has changed over time - addressing the RQ 1 need to show changes in graduation rates |
+
 ---
 
 ### [Challenge goals](/project/discovery-challenges)
