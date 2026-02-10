@@ -29,19 +29,19 @@ Replace the title above. It should reflect your specific research questions (not
 
 ---
 
-### Summary of research questions
+## Summary of research questions
 
 Give a numbered list of 3 or more research questions and a brief description of what you will investigate. Each research question should have 1–3 sentences and propose something that can be definitively answered, not just a general topic or area of investigation.
 
 ---
 
-### Motivation
+## Motivation
 
 In one or two paragraphs, expand on your research questions by providing context about why you care, or why anyone should care. How does knowing the answers affect the world or our understanding of it?
 
 ---
 
-### Task List
+## Task List
 
 > Create your `task list` from [this template](https://docs.google.com/spreadsheets/d/1F2ba3ekH2hg-wLWOCXHkyzi8Q8jizi4QHmhfRdichcU/edit?usp=sharing) (You may modify but you should keep this as the minimum required information for a task list).
 
@@ -52,7 +52,7 @@ Include your `task list` here. Include:
 
 ---
 
-### Datasets
+## Datasets
 
 This is the MOST important part of this document. (more details below) You will do the following:
 
@@ -71,7 +71,7 @@ You should:
 
 See the [Dataset Example](/project/dataset-example) for more details.
 
-### Connecting Datasets to Research
+## Connecting Datasets to Research
 
 Create a table for your research questions and dataset column references from the Datasets below that will be used to address this research question, don't combine/join the data for this information, just list the relevant dataset elements. You need to show that you've thought through matching up your research questions with relevant dataset elements to address each question. See below for an example (you should have multiple dataset/column references though):
 
@@ -81,7 +81,7 @@ Create a table for your research questions and dataset column references from th
 
 ---
 
-### [Challenge goals](/project/discovery-challenges)
+## [Challenge goals](/project/discovery-challenges)
 
   * Select at least 2 challenge goals that you are planning to meet.  
   * Justify why you think this challenge goal is a good fit for your project.  
